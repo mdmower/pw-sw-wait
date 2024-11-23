@@ -1,0 +1,13 @@
+{
+  "action": {
+    "default_popup": "bubble.html",
+    "default_title": "PW Test"
+  },
+  "background": {
+    "service_worker": "sw.js"
+  },
+  "description": "Test Playwright serviceworker event",
+  "manifest_version": 3,
+  "name": "PW Test",
+  "version": "0.1.0"
+}
